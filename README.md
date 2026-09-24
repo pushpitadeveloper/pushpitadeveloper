@@ -1,9 +1,10 @@
 ## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pushpita</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpitadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="pushpitadeveloper" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpitadeveloper" alt="pushpitadeveloper" /></a> </p>
 
 - 🔭 I’m currently working on My academic project **Smart patient gesture gloves**
 
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pushpita-professional-portfolio.netlify.app](https://pushpita-professional-portfolio.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,Javascript, React,C++,Canva,PowerPoint, Typescript**
+- 💬 Ask me about **HTML,CSS,Javascript, React,C++,Canva,PowerPoint, Typescript,Python,MATLAB,Autocad**
 
 - 📫 How to reach me **pushpitaproma925@gmail.com**
 
